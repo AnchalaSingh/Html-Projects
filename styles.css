@@ -1,0 +1,66 @@
+h4{
+    color:rgb(170, 76, 76);
+    font-size: 1.5em;
+    border-style: solid;
+}
+
+nav{
+    border-style: solid;
+}
+
+h1,h2{
+    text-align: center;
+    text-decoration:overline underline dotted;
+    text-shadow: 3px 3px 2px rgb(201, 124, 124),
+    3px 3px 2px rgb(43, 166, 175);
+
+    /* text: center overline underline dotted 3px 3px 2px rgb(201, 124, 124); */
+    
+    /* 10px 0px 10px */
+}
+
+
+.susi{
+    text-align: center;
+
+}
+.stic{
+    text-align: center;
+    letter-spacing:2px;
+    font-size: larger;
+    font-weight:600;
+    word-spacing: 3dvi;
+    /* border-style: solid; */
+}
+
+.harmi{
+    text-align: center;
+    font-family: 'Yuji Mai';
+    font-size:larger;
+    /* text-transform: uppercase; */
+    
+    /* font-weight: 700; */
+    /* font-style:italic;  */
+
+}
+
+.pho{
+    border-style: solid;
+    border-color: brown;
+}
+
+footer{
+    text-align: center;
+    
+}
+
+*{
+    background-color: rgba(175, 177, 61, 0.089);
+
+    /* background-image: url(./Image/download.jpeg); */
+    /* background-attachment: fixed; //scroll */
+    /* background-size:cover; */
+
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+}
